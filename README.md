@@ -17,4 +17,4 @@ The third argument, currentActivity, is the activity that the library uses to ca
 
 ## Example app
 
-For an example of a complete flow, including a backend server, take a look at the demosrv and IRMAndroidDemoApp projects.
+For an example of a complete flow, including a backend server, take a look at the demoserver and IRMAndroidDemoApp projects in the [irma-examples](https://github.com/privacybydesign/irma-examples).
